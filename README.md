@@ -1,10 +1,9 @@
 <h3>To Run: </h3>
 
-Navigate to the directory of the file, and type in the following command into the terminal prompt:
+Navigate to the directory of the file, and set up/add any needed files, including the file to be encoded, and a dictionary file. 
+Then, type in the following command into the terminal prompt:
 
 <i>java -cp ./dsa.jar ie.atu.sw.Runner </i>
-
-Continue to navigate through the directory and set up/ add any needed files, including the file to be encoded, and a dictionary file . 
 
 <h3>Features: </h3>
 
