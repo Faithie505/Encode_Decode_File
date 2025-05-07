@@ -1,6 +1,6 @@
 <h3>To Run: </h3>
 
-Navigate to the directory of the file, and cd into bin. Type in the following command into the terminal prompt:
+Navigate to the directory of the file, and type in the following command into the terminal prompt:
 
 <i>java -cp ./dsa.jar ie.atu.sw.Runner </i>
 
