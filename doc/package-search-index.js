@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"dsaAssignment","l":"ie.atu.sw"}];updateSearchResults();
